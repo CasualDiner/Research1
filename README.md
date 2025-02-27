@@ -3,7 +3,10 @@ output: word_document
 ---
 # Consolidated Analysis of Cost Function Components for Job Shop and Flow Shop Optimization
 
-This document synthesizes information from multiple files  to provide a comprehensive understanding of cost functions used in optimizing job shop and flow shop production environments, particularly in the context of a custom motorcycle facility.  The analysis identifies common themes, unique insights, and key points, merging them into a non-redundant and coherent narrative.$\sqrt{3x-1}+(1+x)^2$
+This document synthesizes information from multiple files  to provide a comprehensive understanding of cost functions used in optimizing job shop and flow shop production environments, particularly in the context of a custom motorcycle facility.  The analysis identifies common themes, unique insights, and key points, merging them into a non-redundant and coherent narrative.
+$$
+\sqrt{3x-1}+(1+x)^2
+$$
 
 ## Introduction to Cost Functions in Shop Optimization
 
