@@ -9,7 +9,7 @@ $$
 $$
 
 ## Introduction to Cost Functions in Shop Optimization
-
+$`\sqrt{3x-1}+(1+x)^2`$
 In the realm of job shop and flow shop scheduling, a **cost function** acts as a mathematical representation of the total "expense" or "loss" incurred by a particular production schedule or plan.  The primary objective of optimization is to identify a schedule that minimizes this cost function, thereby enhancing the overall efficiency and economic performance of the operation. This "cost" extends beyond mere monetary expenses, encompassing inefficiencies, delays, and other adverse outcomes associated with suboptimal scheduling.
 
 ## Core Components of the Cost Function
