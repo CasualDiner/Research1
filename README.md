@@ -18,7 +18,7 @@ The cost function is typically composed of several key components, reflecting bo
 These costs are directly associated with the resources used in the production process.
 
 *   **Labor Costs:** Encompass direct hourly wages for production staff (technicians, craftspeople), overtime premiums, and associated labor overhead (benefits). Labor costs can vary significantly in job shops due to task duration variability compared to the more predictable nature of flow shops.
-    *   Formula Contribution: \($ C_{\text{labor}} = (h_{\text{reg}} \cdot r_{\text{reg}}) + (h_{\text{OT}} \cdot r_{\text{OT}}) $\), where \( h_{\text{reg}} \) and \( h_{\text{OT}} \) are regular and overtime hours, and \( r_{\text{reg}} \) and \( r_{\text{OT}} \) are respective rates.
+    *   Formula Contribution: $ C_{\text{labor}} = (h_{\text{reg}} \cdot r_{\text{reg}}) + (h_{\text{OT}} \cdot r_{\text{OT}}) $, where \( h_{\text{reg}} \) and \( h_{\text{OT}} \) are regular and overtime hours, and \( r_{\text{reg}} \) and \( r_{\text{OT}} \) are respective rates.
 *   **Machine/Operating Costs:** Include equipment depreciation, power consumption, tooling wear, and maintenance. Machine costs are affected by machine runtime and maintenance needs, with job shops potentially experiencing higher variability in utilization than flow shops.
     *   Formula Contribution: \( C_{\text{machine}} = \sum (t_m \cdot r_m + m_m) \), where \( t_m \) is machine runtime, \( r_m \) is operating rate, and \( m_m \) is maintenance cost.
 
