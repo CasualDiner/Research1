@@ -2,7 +2,41 @@
 output: word_document
 ---
 # Consolidated Analysis of Cost Function Components for Job Shop and Flow Shop Optimization
+The formula for a quadratic function can be expressed in several forms. The most common form is the **standard form**.
 
+**Standard Form**
+
+The standard form of a quadratic function is:
+
+$$f(x) = ax^2 + bx + c$$
+
+where:
+*   \(f(x)\) represents the value of the quadratic function at \(x\).
+*   \(x\) is the independent variable.
+*   \(a\), \(b\), and \(c\) are constants, with \(a \neq 0\).
+*   \(a\) determines the direction the parabola opens (upwards if \(a > 0\), downwards if \(a < 0\)) and also affects its "width".
+*   \(b\) affects the position of the axis of symmetry and the vertex of the parabola.
+*   \(c\) is the y-intercept of the parabola (the value of \(f(x)\) when \(x = 0\)).
+
+**Other Forms (briefly mentioned for completeness, though standard form is usually the primary answer)**
+
+While the standard form is most common when asked for "the formula", it's good to be aware of other useful forms:
+
+1.  **Vertex Form:**
+    $$f(x) = a(x - h)^2 + k$$
+    where \((h, k)\) is the vertex of the parabola.
+
+2.  **Factored Form (or Intercept Form or Root Form):**
+    $$f(x) = a(x - r_1)(x - r_2)$$
+    where \(r_1\) and \(r_2\) are the roots (or x-intercepts) of the quadratic function.
+
+For most basic purposes, and when simply asked for "the formula", the standard form is what is generally referred to.
+
+**Therefore, the formula for a quadratic function in standard form using MathJax is:**
+
+```math
+f(x) = ax^2 + bx + c
+```
 This document synthesizes information from multiple files  to provide a comprehensive understanding of cost functions used in optimizing job shop and flow shop production environments, particularly in the context of a custom motorcycle facility.  The analysis identifies common themes, unique insights, and key points, merging them into a non-redundant and coherent narrative.
 $$`
 \sqrt{3x-1}+(1+x)^2
